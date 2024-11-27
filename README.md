@@ -5,3 +5,5 @@ Hi! I am Josh, and I'm thrilled to share my growing data engineering portfolio w
 #
 
 ### [Pseudo-Pokedex - VGG Net](https://github.com/joshkelvinpalermo/Pokedex)
+* Description: This project was used using the VGG Net convolutional neural network model and was trained on thousands of Pokemon images. The model predicts the name of the Pokemon based on the user's input.
+* Technology: VGG Net, python, web scraping
