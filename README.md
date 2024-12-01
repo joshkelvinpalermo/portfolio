@@ -8,4 +8,5 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 * Technology: VGG Net, python, web scraping
 
 ### [Face Recognition with dlib](https://github.com/joshkelvinpalermo/Face-Recognition)
-* Description: 
+* Description: The project
+* Technology: 
