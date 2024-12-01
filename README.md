@@ -1,6 +1,6 @@
 # Data Engineer Portfolio
 
-Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio with you. This repository contains a curated collection of projects completed through various data engineering and analytic courses, as well as self-directed learning exercises. Each project highlights key skills and techniques in the field.
+Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio with you. This repository contains a curated collection of projects completed through various data engineering and analytics stints, self-directed learning exercises, and company-initiated projects. Each project highlights key skills and techniques in the field.
 
 ## Personal Projects
 ### [Pseudo-Pokedex - VGG Net](https://github.com/joshkelvinpalermo/Pokedex)
