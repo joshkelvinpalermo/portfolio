@@ -3,7 +3,7 @@
 Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio with you. This repository contains a curated collection of projects completed through various data engineering and analytics stints, self-directed learning exercises, and company-initiated projects. Each project highlights key skills and techniques in the field.
 
 ## Company Projects
-### [CleverSense]
+### CleverSense
 
 ## Personal Projects
 ### [Pseudo-Pokedex - VGG Net](https://github.com/joshkelvinpalermo/Pokedex)
