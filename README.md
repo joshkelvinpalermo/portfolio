@@ -5,8 +5,6 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 ## Company Projects
 ### CleverSense (2024) - Manufacturing
 * Description: This project focuses on building and maintaining an end-to-end data pipeline to collect, process, and analyze sensors, machines, and factory data from various industrial machines. The system captures real-time data from these devices, dumps them in a parquet format, and is processed for analytics. Using data engineering techniques like data aggregation, transformation, and time-series analysis, the project aims to monitor machine performance, product manufacturing, and improve operational efficiency.
-
-* ![alt text](* https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtIwhbs-A12vqRLIoLj5KiSIlZmr_yZ32JK2LzhQmvCc0Tos9-bkrmpKLeNvkBe2DjksdirVO3r1czw9o5tYpECg)
   
 * Technology: Azure Data Lake, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI
 
