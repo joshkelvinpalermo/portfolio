@@ -15,6 +15,8 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ### Finance Group (2024)
 
+![Finance Group](https://github.com/user-attachments/assets/a3b61c77-f5ac-4f47-99df-af9e620d2c42)
+
 * Description: The aim of the project was to streamline the data management and analysis processes for one of the financial legs of the company. It focused on gathering, cleaning, transforming, and storing large volumes of financial data to provide actionable insights for financial analysis, forecasting, and reporting. By building a robust data pipeline and integrating various data sources, the project ensures that decision-makers have access to real-time, accurate, and comprehensive financial data.
   
 * Technology: SAPS4/4HANA, Azure Data Lake, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI
