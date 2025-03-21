@@ -7,7 +7,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ![CleverSense](https://github.com/user-attachments/assets/bd7f5eea-f044-4d4f-b7a3-5a014eb51566)
 
-Description: This project focuses on building and maintaining an end-to-end data pipeline to collect, process, and analyze sensors, machines, and factory data from various industrial machines. The system captures real-time data from these devices, dumps them in parquet format, and is processed for analytics. Using data engineering techniques like data aggregation, transformation, and time-series analysis via Azure Databricks, the project aims to monitor machine performance, product manufacturing, and improve operational efficiency.
+**Description**: This project focuses on building and maintaining an end-to-end data pipeline to collect, process, and analyze sensors, machines, and factory data from various industrial machines. The system captures real-time data from these devices, dumps them in parquet format, and is processed for analytics. Using data engineering techniques like data aggregation, transformation, and time-series analysis via Azure Databricks, the project aims to monitor machine performance, product manufacturing, and improve operational efficiency.
 
 How it works: Several machines from the many plants and factories of the company have sensors, PLCs, and devices that generates real-time data. These raw data in the form of parquet files are ingested and stored into Data Lake, then using Databricks, these are cleaned and processed. Curated data would then be loaded into Delta Lake and is projected on Microsoft Power BI for reporting.
 
