@@ -28,6 +28,3 @@ Technology: SAPS4/4HANA, Azure Data Lake, Azure Data Factory, Azure Databricks, 
 Description: This project was used using the VGG Net convolutional neural network model and was trained on thousands of Pokemon images. The model predicts the name of the Pokemon based on the user's input.
 Technology: VGG Net, python, web scraping
 
-### [Face Recognition with dlib](https://github.com/joshkelvinpalermo/Face-Recognition)
-Description:
-Technology:
