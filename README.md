@@ -16,7 +16,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **TECHNOLOGY**: Azure Data Lake, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI
 
-----------------------
+--
 
 ### Finance Group - Global Sourcing, International Supply Chain (2024)
 
