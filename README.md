@@ -3,6 +3,9 @@
 Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio with you. This repository contains a curated collection of projects completed through various data engineering and analytics stints, self-directed learning exercises, and company-initiated projects. Each project highlights key skills and techniques in the field.
 
 ## Company Projects
+
+### Core Data Migration (2025)
+
 ### CleverSense (2024)
 
 ![CleverSense](https://github.com/user-attachments/assets/bd7f5eea-f044-4d4f-b7a3-5a014eb51566)
