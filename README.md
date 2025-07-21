@@ -4,9 +4,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ## Company Projects
 
-### Core Data Migration (2025)
-
-![Core Data Migration](<img width="507" height="560" alt="image" src="https://github.com/user-attachments/assets/3a150d21-5f3a-4123-ae0d-803535fe7b7d" />)
+### Core Data Migration (2025) <img width="507" height="560" alt="MDM" src="https://github.com/user-attachments/assets/d7e6b027-1bfa-44a5-8e80-49f43526f2a7" />
 
 **DESCRIPTION**: The project aims to transition all master data processing workloads from a legacy environment, which relies on custom-built ETL pipelines for individual sub-domains, to a refreshed data mesh framework. This new framework is fully parameterized and driven entirely by JSON configurations that enables scalability and dynamic pipeline orchestration across several master data domains.
 
