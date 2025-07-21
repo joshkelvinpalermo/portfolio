@@ -42,6 +42,8 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ### STARS Stream C (2022)
 
+![Stars Stream C](https://github.com/user-attachments/assets/a07f97dd-df2c-418d-87f5-64aa873afa6a)
+
 **DESCRIPTION**: The objective of this project is to migrate and modernize the bank’s legacy data warehouse infrastructure, transitioning from Cloudera-based data warehouses and on-premises mainframes to a scalable, cloud-native architecture on AWS. The project aims to reimagine how the bank stores, processes, and serves its data by leveraging AWS services for cost efficiency, elasticity, and improved performance. It involves redesigning ETL pipelines for cloud readiness, implementing data governance and security aligned with regulatory requirements, and enabling advanced analytics capabilities to support real-time insights for various banking operations.
 
 **HOW IT WORKS**:
