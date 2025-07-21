@@ -32,8 +32,6 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **TECHNOLOGY**:
 
----
-
 ### Finance Group - Global Sourcing, International Supply Chain (2024)
 
 ![Finance Group](https://github.com/user-attachments/assets/a3b61c77-f5ac-4f47-99df-af9e620d2c42)
