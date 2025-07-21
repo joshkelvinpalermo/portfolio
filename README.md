@@ -6,6 +6,12 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ### Core Data Migration (2025)
 
+**DESCRIPTION**:
+
+**HOW IT WORKS**:
+
+**TECHNOLOGY**:
+
 ### CleverSense (2024)
 
 ![CleverSense](https://github.com/user-attachments/assets/bd7f5eea-f044-4d4f-b7a3-5a014eb51566)
