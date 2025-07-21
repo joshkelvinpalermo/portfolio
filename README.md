@@ -24,6 +24,14 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **TECHNOLOGY**: Azure Data Lake, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI
 
+### STARS Stream C (2022)
+
+**DESCRIPTION**: The objective of this project is to migrate and modernize the bank’s legacy data warehouse infrastructure, transitioning from Cloudera-based data warehouses and on-premises mainframes to a scalable, cloud-native architecture on AWS. The project aims to reimagine how the bank stores, processes, and serves its data by leveraging AWS services for cost efficiency, elasticity, and improved performance. It involves redesigning ETL pipelines for cloud readiness, implementing data governance and security aligned with regulatory requirements, and enabling advanced analytics capabilities to support real-time insights for various banking operations.
+
+**HOW IT WORKS**:
+
+**TECHNOLOGY**:
+
 ---
 
 ### Finance Group - Global Sourcing, International Supply Chain (2024)
