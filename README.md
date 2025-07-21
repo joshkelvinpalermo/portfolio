@@ -14,6 +14,8 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **TECHNOLOGY**: SAP, Azure Data Factory, Databricks, Synapse Analytics, Tableau/Power BI
 
+---
+
 ### CleverSense (2024)
 
 ![CleverSense](https://github.com/user-attachments/assets/bd7f5eea-f044-4d4f-b7a3-5a014eb51566)
@@ -24,13 +26,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **TECHNOLOGY**: Azure Data Lake, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI
 
-### STARS Stream C (2022)
-
-**DESCRIPTION**: The objective of this project is to migrate and modernize the bank’s legacy data warehouse infrastructure, transitioning from Cloudera-based data warehouses and on-premises mainframes to a scalable, cloud-native architecture on AWS. The project aims to reimagine how the bank stores, processes, and serves its data by leveraging AWS services for cost efficiency, elasticity, and improved performance. It involves redesigning ETL pipelines for cloud readiness, implementing data governance and security aligned with regulatory requirements, and enabling advanced analytics capabilities to support real-time insights for various banking operations.
-
-**HOW IT WORKS**:
-
-**TECHNOLOGY**:
+---
 
 ### Finance Group - Global Sourcing, International Supply Chain (2024)
 
@@ -41,6 +37,16 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 **HOW IT WORKS**: The raw data are being extracted from SAPS4/HANA using an application built on Azure App Service, then dumped on Data Lake. Using the JSON configuration files that we developed, these data are processed and transformed based on the rules, mappings, and transformations that are defined, including the join, primary, and surrogate keys. The purpose of these JSON files were so we can just dynamically apply several transformation methods using only one framework. Cleaned and structured data would then be stored on the Delta Lake and is loaded to Tableau as the serving layer.
 
 **TECHNOLOGY**: SAPS4/4HANA, Azure Data Lake, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Power BI
+
+---
+
+### STARS Stream C (2022)
+
+**DESCRIPTION**: The objective of this project is to migrate and modernize the bank’s legacy data warehouse infrastructure, transitioning from Cloudera-based data warehouses and on-premises mainframes to a scalable, cloud-native architecture on AWS. The project aims to reimagine how the bank stores, processes, and serves its data by leveraging AWS services for cost efficiency, elasticity, and improved performance. It involves redesigning ETL pipelines for cloud readiness, implementing data governance and security aligned with regulatory requirements, and enabling advanced analytics capabilities to support real-time insights for various banking operations.
+
+**HOW IT WORKS**:
+
+**TECHNOLOGY**:
 
 ## Personal Projects
 ### [Pseudo-Pokedex - VGG Net](https://github.com/joshkelvinpalermo/Pokedex)
