@@ -10,9 +10,9 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **DESCRIPTION**: The project aims to transition all master data processing workloads from a legacy environment, which relies on custom-built ETL pipelines for individual sub-domains, to a refreshed data mesh framework. This new framework is fully parameterized and driven entirely by JSON configurations that enables scalability and dynamic pipeline orchestration across several master data domains.
 
-**HOW IT WORKS**:
+**HOW IT WORKS**: Several sub-domains contributing to the project currently export raw Parquet files on a scheduled basis. These files are then ingested by custom ETL processes, which leverage individual Databricks notebooks to perform transformations. This setup is now being modernized by consolidating into a single, unified framework that utilizes parameterized transformations driven by JSON configurations. The transformed data is subsequently exposed through views in Synapse Analytics for downstream consumption.
 
-**TECHNOLOGY**:
+**TECHNOLOGY**: SAP, Azure Data Factory, Databricks, Synapse Analytics, Tableau/Power BI
 
 ### CleverSense (2024)
 
