@@ -2,14 +2,10 @@
 
 Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio with you. This repository contains a curated collection of projects completed through various data engineering and analytics stints, self-directed learning exercises, and company-initiated projects. Each project highlights key skills and techniques in the field.
 
-## Table of Contents
-
-- Company Projects
-- [Core Data Migration](#Core Data Migration)
-
 ## Company Projects
 
-### Core Data Migration (2025)
+<details>
+<summary> ### Core Data Migration (2025) </summary>
 
 ![Core Data Migration](https://github.com/user-attachments/assets/6a0c2d6b-b9f5-46df-bee5-9a650752534d)
 
@@ -18,6 +14,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 **HOW IT WORKS**: Several sub-domains contributing to the project currently export raw Parquet files on a scheduled basis. These files are then ingested by custom ETL processes, which leverage individual Databricks notebooks to perform transformations. This setup is now being modernized by consolidating into a single, unified framework that utilizes parameterized transformations driven by JSON configurations. The transformed data is subsequently exposed through views in Synapse Analytics for downstream consumption.
 
 **TECHNOLOGY**: SAP, Azure Data Factory, Databricks, Synapse Analytics, Tableau/Power BI
+</details>
 
 ---
 
