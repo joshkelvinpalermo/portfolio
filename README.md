@@ -4,7 +4,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ## Company Projects
 
-### Core Data Migration (2025)
+### (2025) Core Data Migration
 
 ![Core Data Migration](https://github.com/user-attachments/assets/6a0c2d6b-b9f5-46df-bee5-9a650752534d)
 
@@ -16,7 +16,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ---
 
-### CleverSense (2024)
+### (2024) CleverSense
 
 ![CleverSense](https://github.com/user-attachments/assets/bd7f5eea-f044-4d4f-b7a3-5a014eb51566)
 
@@ -28,7 +28,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ---
 
-### Finance Group - Global Sourcing, International Supply Chain (2024)
+### (2024) Finance Group - Global Sourcing, International Supply Chain
 
 ![Finance Group](https://github.com/user-attachments/assets/a3b61c77-f5ac-4f47-99df-af9e620d2c42)
 
@@ -40,7 +40,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ---
 
-### STARS Stream C (2022)
+### (2022) STARS Stream C
 
 ![Stars Stream C](https://github.com/user-attachments/assets/b8ada157-5a17-4752-8b5b-a11a46ecc50d)
 
