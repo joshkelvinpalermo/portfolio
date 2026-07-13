@@ -48,6 +48,8 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **HOW IT WORKS**: Multiple data marts and databases previously housed in the legacy Cloudera Data Warehouse are being reconstructed on AWS Redshift. This process involves using the original Source-to-Target Mapping (STM) specifications used in their initial development to ensure consistency in data lineage and business logic during migration. Once the data warehouse is built on Redshift and the ETL pipelines on Talend, extensive validation and unit testing are performed to confirm that the data in the new environment accurately matches the legacy datasets, both in terms of data quality and business rule adherence.
 
+**TECHNOLOGY**: Cloudera, On-premise data warehouse, Amazon S3, Amazon Redshift/Redshift Spectrum, Talend Data Studio, Tableau
+
 ![IRIS - Employee Timekeeping System](https://github.com/user-attachments/assets/b8ada157-5a17-4752-8b5b-a11a46ecc50d)
 
 **DESCRIPTION**: The project aims to streamline employee attendance management by implementing a facial recognition-based timekeeping system. Instead of relying on traditional ID cards or biometric fingerprint scanners, the solution automatically identifies employees as they enter or leave the office, accurately recording their time-in and time-out events while maintaining a centralized attendance database.
@@ -55,5 +57,3 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 **HOW IT WORKS**: Cameras installed at the office entrance capture live video feeds of employees entering and exiting the premises. The captured faces are processed using a facial recognition model, which matches them against a registered employee database. Once a match is verified, the system automatically logs the corresponding time-in or time-out record. Attendance data is then stored in a centralized database, where it is used to generate reports, monitor employee attendance, calculate working hours, and provide dashboards for HR and management.
 
 **TECHNOLOGY**: Python, OpenCV, Face Recognition, TensorFlow/Keras (or FaceNet), Flask/Django, SQL Server/MySQL, REST API, Power BI
-
-**TECHNOLOGY**: Cloudera, On-premise data warehouse, Amazon S3, Amazon Redshift/Redshift Spectrum, Talend Data Studio, Tableau
