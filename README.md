@@ -2,6 +2,8 @@
 
 Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio with you. This repository contains a curated collection of projects completed through various data engineering and analytics stints, self-directed learning exercises, and company-initiated projects. Each project highlights key skills and techniques in the field.
 
+<img width="828" height="1792" alt="8ca9539e-5a85-4f5a-88b1-6b6a392a0faa" src="https://github.com/user-attachments/assets/8681cf57-7b7c-4aad-98e0-67e72432d43d" />
+
 ## Company Projects
 
 ### (2025) Core Data Migration
