@@ -54,8 +54,7 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 ### (2020) IRIS - Employee Timekeeping System
 
-![IRIS - Employee Timekeeping System](<img width="776" height="340" alt="image" src="https://github.com/user-attachments/assets/082372a6-4d4d-4faf-b33f-4cd3cf315f5d" />
-)
+![IRIS - Employee Timekeeping System](https://github.com/user-attachments/assets/082372a6-4d4d-4faf-b33f-4cd3cf315f5d)
 
 **DESCRIPTION**: The project aims to streamline employee attendance management by implementing a facial recognition-based timekeeping system. Instead of relying on traditional ID cards or biometric fingerprint scanners, the solution automatically identifies employees as they enter or leave the office, accurately recording their time-in and time-out events while maintaining a centralized attendance database.
 
