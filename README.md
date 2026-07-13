@@ -50,7 +50,9 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 **TECHNOLOGY**: Cloudera, On-premise data warehouse, Amazon S3, Amazon Redshift/Redshift Spectrum, Talend Data Studio, Tableau
 
-![IRIS - Employee Timekeeping System](https://github.com/user-attachments/assets/b8ada157-5a17-4752-8b5b-a11a46ecc50d)
+---
+
+![IRIS - Employee Timekeeping System]
 
 **DESCRIPTION**: The project aims to streamline employee attendance management by implementing a facial recognition-based timekeeping system. Instead of relying on traditional ID cards or biometric fingerprint scanners, the solution automatically identifies employees as they enter or leave the office, accurately recording their time-in and time-out events while maintaining a centralized attendance database.
 
