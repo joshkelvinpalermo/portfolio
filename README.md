@@ -4,6 +4,17 @@ Hi! My name is Josh, and I'm thrilled to share my growing professional portfolio
 
 Please note: For privacy and confidentiality purposes, some project names, company names, and other identifying details have been modified or generalized. The names presented in this portfolio may not reflect the actual project names, but the underlying concepts, technologies, and technical implementations accurately represent the work and skills demonstrated.
 
+## Table of Contents
+
+- [Company Projects](#company-projects)
+  - [2025 - Core Data Migration](#2025-core-data-migration)
+  - [2024 - CleverSense](#2024-cleversense)
+  - [2024 - Finance Group - Global Sourcing, International Supply Chain](#2024-finance-group---global-sourcing-international-supply-chain)
+  - [2022 - STARS Stream C](#2022-stars-stream-c)
+  - [2020 - IRIS - Employee Timekeeping System](#2020-iris---employee-timekeeping-system)
+
+---
+
 ## Company Projects
 
 ### (2025) Core Data Migration
