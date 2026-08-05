@@ -6,12 +6,11 @@ Please note: For privacy and confidentiality purposes, some project names, compa
 
 ## Table of Contents
 
-- [Company Projects](#company-projects)
-  - [2025 - Core Data Migration](#2025-core-data-migration)
-  - [2024 - CleverSense](#2024-cleversense)
-  - [2024 - Finance Group - Global Sourcing, International Supply Chain](#2024-finance-group---global-sourcing-international-supply-chain)
-  - [2022 - STARS Stream C](#2022-stars-stream-c)
-  - [2020 - IRIS - Employee Timekeeping System](#2020-iris---employee-timekeeping-system)
+- [2025 - Core Data Migration](#2025-core-data-migration)
+- [2024 - CleverSense](#2024-cleversense)
+- [2024 - Finance Group - Global Sourcing, International Supply Chain](#2024-finance-group---global-sourcing-international-supply-chain)
+- [2022 - STARS Stream C](#2022-stars-stream-c)
+- [2020 - IRIS - Employee Timekeeping System](#2020-iris---employee-timekeeping-system)
 
 ---
 
