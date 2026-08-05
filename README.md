@@ -21,11 +21,11 @@ Please note: For privacy and confidentiality purposes, some project names, compa
 
 ![End-to-End Shipment Tracking](https://github.com/user-attachments/assets/6a0c2d6b-b9f5-46df-bee5-9a650752534d)
 
-**DESCRIPTION**:
+**DESCRIPTION**: The project focuses on providing end-to-end visibility and traceability of product shipments across global markets, ensuring that shipments comply with required regulatory, logistical, and operational standards throughout the distribution process. The solution enables the monitoring of shipment status, product movement, pallet-level traceability, delivery milestones, and other key logistics events to ensure that products are properly tracked from origin through final receipt.
 
-**HOW IT WORKS**:
+**HOW IT WORKS**: Shipment and product data are collected from various source systems, including SAP and inexto, and ingested into Azure Data Lake Storage through Azure Data Factory. The data is then processed and transformed using Databricks to consolidate shipment information and provide a unified view of product movements across different markets. The solution tracks key shipment attributes and events, including shipment creation, product and pallet identification, quantities, destinations, dispatch and delivery dates, shipment status, and receipt confirmation. This enables the team to monitor shipments throughout their lifecycle, identify missing or delayed deliveries, validate compliance requirements, and ensure that every pallet and shipment is properly accounted for and received at its intended destination.
 
-**TECHNOLOGY**:
+**TECHNOLOGY**: SAP, Inexto, Azure Data Lake Storage, Azure Data Factory, Databricks
 
 ---
 
